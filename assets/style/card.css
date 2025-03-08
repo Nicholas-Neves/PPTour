@@ -12,7 +12,9 @@
   display: flex;
 }
 
-
+body a{
+  text-decoration:none;
+}
 
 .container {
   position: relative;
